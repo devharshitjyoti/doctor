@@ -14,7 +14,8 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": "14.2.0"
+    "node": "8.11.4",
+    "npm": "5.6.0"
   },
   "scripts": {
     "eject": "react-scripts eject",
